@@ -1,4 +1,4 @@
 # demo_project
 test for training the use of github
-## °æ±¾ÈÕÖ¾
-1. 2023.04.02 µÚÒ»´ÎÌá½»
+## ç‰ˆæœ¬æ—¥å¿—
+1. 2023.04.02 ç¬¬ä¸€æ¬¡æäº¤
